@@ -491,7 +491,7 @@ PrefabInstance:
     - target: {fileID: 882129737928793925, guid: 58e0a2e045d8649459f0bbd0e737d16b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 231f760dc67fc2c46a868f3fc1c6159a, type: 2}
+      objectReference: {fileID: 2100000, guid: d50de6ffb2df9754ab8977e08ce77aae, type: 2}
     - target: {fileID: 919132149155446097, guid: 58e0a2e045d8649459f0bbd0e737d16b, type: 3}
       propertyPath: m_Name
       value: ParedMontada
